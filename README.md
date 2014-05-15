@@ -1,0 +1,4 @@
+nomemorystore
+=============
+
+cordova development
